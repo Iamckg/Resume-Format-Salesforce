@@ -1,0 +1,272 @@
+<apex:page renderAs="pdf" contentType="application/pdf" showHeader="false" sidebar="false">
+    <div style="font-family: 'Arial', sans-serif;">
+    <!-- Header Section -->
+    <div style="text-align: center; padding: 10px; border-bottom: 3px solid #044B78; margin-bottom: 10px;">
+        <h1 style="font-size: 26px; margin: 0;color: #044B78;">Chandan Kumar Gupta</h1>
+        <p style="font-size: 14px; margin: 5px 0;">Sr. Salesforce Developer | Noida, Delhi NCR</p>  
+        <p style="font-size: 14px; margin: 5px 0; ">
+            <a href="#" style="text-decoration: none; color: #044B78;">63XXXXXX02</a> ||
+            <a href="#" style="text-decoration: none; color: #044B78;">chandankumargupta474@gmail.com</a> ||
+            <a href="#" style="text-decoration: none; color: #044B78;">Trailhead</a> ||
+            <a href="#" style="text-decoration: none; color: #044B78;">LinkedIn</a> ||
+            <a href="#" style="text-decoration: none; color: #044B78;">Resume Code</a> ||
+            <a href="#" style="text-decoration: none; color: #044B78;">My Portfolio</a>
+        </p>
+    </div>
+    
+    <!-- Professional Synopsis  Section -->
+    <div style="margin-bottom: 20px; ">
+        <h2 style="font-size: 18px; color: #044B78; margin-bottom: 10px;">Professional Synopsis</h2>
+        <p style="font-size: 12px; margin: 0;">
+            5x Salesforce Certified Developer with 3.5+ years of experience in designing and implementing scalable Salesforcesolutions. Proficient in Apex, LWC,
+            and Flow Builder, with expertise in integrating Salesforce with externalsystems using REST, SOAP, andBulkAPIs. Skilled in building custom Apex RESTful 
+            services, handling JSON/XML data formats, and implementing secure authenticationmechanisms like OAuth and JWT. Adept at delivering high-quality, 
+            innovative solutions to optimize business processes anddrivedigitaltransformation.   </p>
+    </div>
+    <div style=" border-bottom: 3px solid #044B78; margin-bottom: 10px;"></div>
+    <!-- Certifications Section -->
+    <div style="margin-bottom: 20px;  '">
+        <h2 style="font-size: 18px; color: #044B78; margin-bottom: 10px;">Certifications</h2>
+        <table style="width: 100%; margin-bottom: 10px;">
+            <tr>
+                <td style="padding: 4px; ">
+                 <ul style="font-size: 12px; margin: 0; padding-left: 20px;">
+                    <li><a href="#" style="text-decoration: none; color: #044B78;">Salesforce Certified Administrator</a></li>
+                    <li><a href="#" style="text-decoration: none; color: #044B78;">Salesforce Certified Platform Developer I</a></li>
+                    <li><a href="#" style="text-decoration: none; color: #044B78;">Salesforce Certified Associate</a></li>
+                  
+                </ul>
+                </td>
+                <td style="padding: 4px; ">
+                  <ul style="font-size: 12px; margin: 0; padding-left: 20px;">
+                    <li><a href="#" style="text-decoration: none; color: #044B78;">Salesforce Certified AI Associate</a></li>
+                    <li><a href="#" style="text-decoration: none; color: #044B78;">Salesforce Certified AI Specialist</a></li>
+                </ul>
+                </td>
+            </tr>
+         </table>
+    </div>
+    <div style=" border-bottom: 3px solid #044B78; margin-bottom: 10px;"></div>
+        
+    <!-- Education Section -->
+    <div style="margin-bottom: 20px;">
+        <h2 style="font-size: 18px; color: #044B78; margin-bottom: 10px;">Education</h2>
+        <table style="width: 100%; margin-bottom: 10px;">
+            <tr>
+                <td style="padding: 4px; ">
+                <div style="margin-bottom: 10px;">
+                    <h3 style="font-size: 14px; margin: 0;">Batch </h3>
+                    <p style="font-size: 12px; margin: 0;">KCC institude of technology and management</p>
+                    <p style="font-size: 10px; margin: 3px 0;">Aug 2018 - September 2022</p>
+                    <p style="font-size: 10px; margin: 3px 0;">CGPA – 8.6</p>
+                </div>
+                </td>
+                <td style="padding: 4px; ">
+                 <div style="margin-bottom: 10px;">
+                     <h3 style="font-size: 14px; margin: 0;">Senior Secondary School (12th)</h3>
+                     <p style="font-size: 12px; margin: 0;">T N J Inter College Bankata Deoria</p>
+                     <p style="font-size: 10px; margin: 3px 0;">June 2017</p>
+                     <p style="font-size: 10px; margin: 3px 0;">Up Board - 91%</p>
+                 </div>
+                </td>
+                <td style="padding: 4px; ">
+                <div style="margin-bottom: 10px;">
+                    <h3 style="font-size: 14px; margin: 0;">Higher Secondary School (10th) </h3>
+                    <p style="font-size: 12px; margin: 0;">T N J Inter College Bankata Deoria</p>
+                    <p style="font-size: 10px; margin: 3px 0;">June 2014</p>
+                    <p style="font-size: 10px; margin: 3px 0;">Up Board – 83%</p>
+                </div>
+                </td>
+            </tr>
+         </table>
+    </div>   
+    <div style=" border-bottom: 3px solid #044B78; margin-bottom: 10px;"></div>    
+    <!-- Work Experience Section -->
+    <div style="margin-bottom: 10px;">
+        <h2 style="font-size: 18px; color: #044B78; margin-bottom: 10px;">Work Experience</h2>
+        
+        
+        <table style="width: 100%; margin-bottom: 9px;">
+            <tr>
+                <td style="padding: 4px; ">
+                   <div style="margin-bottom: 10px;">
+                       <h3 style="font-size: 14px; margin: 0;">Sr. Salesforce Developer</h3>
+                        <p style="font-size: 12px; margin: 5px 0;">PYRAMID E- SERVICES, Jalandhar (Jan 2022 – Present)</p>
+                    </div>
+                </td>
+                <td style="padding: 4px; ">
+                  <div style="margin-bottom: 10px;">
+                    <h3 style="font-size: 14px; margin: 0;">Salesforce Developer</h3>
+                    <p style="font-size: 12px; margin: 5px 0;">INVENTCOLABS INFOTECH PVT LMT, Jaipur (Jan 2022 – Present)</p>
+                  </div>
+                </td>
+            </tr>
+            <tr>
+                <td style="padding: 4px; ">
+                  <div style="margin-bottom: 10px;">
+                    <h3 style="font-size: 14px; margin: 0;">Salesforce Developer</h3>
+                    <p style="font-size: 12px; margin: 5px 0;">CREDEX TECHNOLOGY, Noida (Jan 2022 – Present)</p>
+                  </div>
+                </td>
+                <td style="padding: 4px; ">
+                  <div style="margin-bottom: 10px;">
+                    <h3 style="font-size: 14px; margin: 0;">Java Developer Trainee</h3>
+                    <p style="font-size: 12px; margin: 5px 0;">CODULES TECHNOLOGIES PVT LTD, Greater Noida (Jan 2022 – Present)</p>
+                  </div>
+                </td>
+            </tr>
+         </table>
+    </div>
+    <div style=" border-bottom: 3px solid #044B78; margin-bottom: 8px;"></div>
+    <!-- Skills Section -->
+    <div style="margin-bottom: 10px;">
+        <h2 style="font-size: 18px; color: #044B78; margin-bottom: 10px;">Skills</h2>
+        <table style="width: 100%; margin-bottom: 8px;">
+            <tr>
+                <td style="padding: 4px; font-size: 12px; ">
+                <ul style="font-size: 12px; margin: 0; padding-left: 20px;">
+                    <li>Apex Development</li>
+                    <li>Apex Triggers</li>
+                    <li>Apex Test Classes</li>
+                    <li>Asynchronous Apex</li>
+                    <li>Wrapper Classes</li>
+                    <li>Data Loader</li>
+                    <li>Reports and dashboards</li>
+                    <li>Automation – Flows</li>
+                    <li>Experience Cloud Site</li>
+                    <li>Propert Finder integration</li>
+                    <li>Bayut Real State Integration</li>
+                    <li>Dubizzal Real State Integration</li>
+                </ul>
+                </td>
+                <td style="padding: 4px; font-size: 12px;">
+                <ul style="font-size: 12px; margin: 0; padding-left: 20px;">
+                    <li>LWC</li>
+                    <li>AURA</li>
+                    <li>Visualforce page</li>
+                    <li>Rest Api</li>
+                    <li>Webhook Listner</li>
+                    <li>Whatsapp Integration</li>
+                    <li>AWS S3 bucket Integration</li>
+                    <li>Firebase Push Notification Integration</li>
+                    <li>Msg91 SMS Integration</li>
+                    <li>Payment Gateway Integration</li>
+                    <li>SFDC Data Model</li>
+                    <li>Eistein Chat Bots</li>
+                </ul>   
+                </td>
+            </tr>
+         </table>
+    </div>
+    <div style=" border-bottom: 3px solid #044B78; margin-bottom: 10px;"></div>
+    <div style=" border-bottom: 3px solid #044B78; margin-bottom: 10px;"></div>
+    <!-- Professional Summary Section -->
+    <div style="margin-bottom: 20px;">
+        <h2 style="font-size: 18px; color: #044B78; margin-bottom: 10px;">Professional Summary</h2>
+        <ul style="font-size: 12px; margin: 0; padding-left: 20px;">
+            <li>Dynamic Salesforce Developer with 3.5+ years of experience in developing scalable Salesforce solutions across various industries, specializing in Apex,
+                Lightning Web Components (LWC), and Flow Builder.</li>
+            <li>Proficient in integrating Salesforce with external systems using REST/SOAP APIs, OAuth, and webhooks, ensuring seamless connectivity and 
+                efficient data migration with tools like Data Loader and Workbench.</li>
+            <li>Expert in Salesforce customizations, including trigger development, advanced automation workflows, and 
+                responsive UI components for improved operational efficiency and user experience.</li>
+            <li>Skilled in Service Cloud, Experience Cloud, and Field Service Lightning customizations, with expertise in data modeling, security architecture, 
+                and resolving critical system issues under pressure.</li>
+            <li>Experience in automating processes with scheduled Apex, reporting systems, and third-party integrations, including WhatsApp APIs, PDF generation, 
+                and email automation.</li>
+            <li>Proven leadership in project lifecycle management, team mentoring, and user training, developing in-house Salesforce applications 
+                and addressing complex business needs.</li>
+            <li>Motivated to deliver innovative solutions aligned with business objectives, ensuring high-quality performance, compliance, and long-term growth.</li>
+        </ul>
+    </div>
+
+    <div style=" border-bottom: 3px solid #044B78; margin-bottom: 10px;"></div>
+    <!-- Projects Section -->
+    <div style="margin-bottom: 20px;">
+        <h2 style="font-size: 18px; color: #044B78; margin-bottom: 10px;">Projects</h2>
+        <div style="margin-bottom: 10px;">
+            <h3 style="font-size: 14px; margin: 0;">1. Project Management System (India)</h3>
+            <p style="font-size: 12px; margin: 5px 0;">
+                <b>Description </b> : Designed and maintained the Project Management Systematthe organization level.
+            </p>
+            <p style="font-size: 12px; margin: 5px 0;">
+                <b>Environment </b> : Apex, SOQL, Apex Triggers, Integration, Datamodeling,Validation rules, Field dependency, Flow Builder , Security Model ,
+                Screen Flows , Approval Process , Data Loader etc.  
+            </p>
+        </div>
+        <div style="margin-bottom: 10px;">
+            <h3 style="font-size: 14px; margin: 0;">2. E-Health (US)</h3>
+            <p style="font-size: 12px; margin: 5px 0;">
+                <b>Description </b> : Managed hospital work, doctor's work management, andpatientrecords in Salesforce.comcloud.
+            </p>
+            <p style="font-size: 12px; margin: 5px 0;">
+                <b>Environment </b> : Salesforce.com platform, Apex, Triggers, VisualforcePages,Flows, Validation, Data Loader, Dynamic page layout, changeset sandbox etc
+            </p>
+         </div>
+        <div style="margin-bottom: 10px;">
+            <h3 style="font-size: 14px; margin: 0;">3. Asset Management System (India)</h3>
+            <p style="font-size: 12px; margin: 5px 0;">
+                <b>Description </b> : : It is a salesforce application to manage company assets , house keeping asset, billing management , asset assigment , 
+                company information etc.</p>
+            <p style="font-size: 12px; margin: 5px 0;">
+                <b>Environment </b> : Salesforce.com platform, Apex, Triggers, LWC, Flows,Validation, google drive integration, changeset sandbox IntegrationapexrestApi ,
+                apex test class, PostMan Experience cloud Site.
+            </p>
+        </div>
+        <div style="margin-bottom: 10px;">
+            <h3 style="font-size: 14px; margin: 0;">4. WYNK Mobile Application (US)</h3>
+            <p style="font-size: 12px; margin: 5px 0 3px 0;">
+                <b>Description </b> : it is a mobile application for manage calendar eventsandplansshare with friends and groups.
+            </p>
+            <p style="font-size: 12px; margin: 5px 0 3px 0;">
+                <b>Environment </b> : Salesforce.com platform, Apex, Triggers, LWC, Flows,Validation, Experience cloud site, Firebase Integration, AWS S3Integration,
+                changeset sandbox Integration apex rest Api , apex test class, Postman 
+            </p>
+        </div>
+        <div style="margin-bottom: 10px;">
+            <h3 style="font-size: 14px; margin: 0;">5. VISA MIGRATION (India)</h3>
+            <p style="font-size: 12px; margin: 5px 0;">
+                <b>Description </b> : Managed data for VISA Migration in salesforce link visa managent , payement management, leadgeneration , students , commission.
+            </p>
+            <p style="font-size: 12px; margin: 5px 0;">
+                <b>Environment </b> : Apex, Flow Builder, Data Modeling, Triggers, ValidationRules,Email Templates, CustomSetting
+                 Queues, Approval Process, AssignmentRule, Msg91 integration ,Icici Bank Payment Gateway Integration.
+            </p>
+        </div>
+        <div style="margin-bottom: 10px;">
+            <h3 style="font-size: 14px; margin: 0;">6. MANZIL LIFE (Dubai)</h3>
+            <p style="font-size: 12px; margin: 5px 0;">
+                <b>Description </b> : Managed real esate data in dubai plats sell , buy , rent using of salesforce CRM .
+            </p>
+            <p style="font-size: 12px; margin: 5px 0;">
+                <b>Environment </b> : Apex, Flow Builder, Data Modeling, Triggers, ValidationRules,Email Templates, CustomSetting, Queues, Approval Process,
+                Property finder portal integration , bayut portal integration , dubizzal portal integrationWhatsapp lead managent , calling lead management.
+            </p>
+        </div>
+        
+        <div style="margin-bottom: 10px;">
+            <h3 style="font-size: 14px; margin: 0;">More.. Like HOLIDAYS CRM (Dubai) , NFA Process , Ameera's Manssion, Aplicar Services etc </h3>
+        </div>
+    </div>
+    
+    <div style=" border-bottom: 3px solid #044B78; margin-bottom: 20px;"></div>
+    
+    
+    <!-- Declaration Section -->
+    <div style="margin-bottom: 10px;">
+        <h2 style="font-size: 18px; color: #044B78; margin-bottom: 8px;">Declaration</h2>
+        <br/>
+        <div style="margin-bottom: 10px;">
+            <div style="float: Left;">
+               <p style="font-size: 12px; margin: 0;">
+                I hereby declare that the above-mentioned information is accurate and true to the best of my knowledge.
+               </p> 
+            </div>
+            <div style="float: right;">
+             <p style="font-size: 12px; margin: 10px 0;">Chandan Kumar Gupta</p>
+            </div>
+        </div>    
+    </div>    
+        
+   </div>
+</apex:page>
